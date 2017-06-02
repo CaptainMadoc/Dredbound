@@ -1,0 +1,23 @@
+{
+  "projectileName" : "bolt-steel2-eldritch",
+  "physics" : "bolt-steel2",
+  "piercing" : false,
+  "frames" : "bolt-steel2-eldritch.png",
+  "animationCycle" : 0.25,
+  "level" : 1,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [
+    "dredeldritch"
+  ],
+  "power" : 5.0,
+  "lightColor" : [35, 235, 35],
+  "damageKind" : "dredbow-eldritch"
+}

@@ -1,0 +1,24 @@
+{
+  "projectileName" : "bolt-windup-doublebolt-moderne",
+  "frames" : "bolt-windup-doublebolt-moderne.png",
+  "animationCycle" : 0.25,
+  "level" : 1,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 0.01,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "doublebolt-moderne-1",
+      "inheritDamageFactor" : 1.0
+    },
+	{
+      "action" : "projectile",
+      "type" : "doublebolt-moderne-next",
+      "inheritDamageFactor" : 1.0
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "dredbow"
+}

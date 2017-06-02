@@ -1,0 +1,374 @@
+    [
+      {
+        "op" : "add",
+        "path" : "/Bolt-Wooden",
+        "value" : {
+		  "mass" : 1.0,
+          "gravityMultiplier" : 1.6,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 0.4,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 1.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 2.0,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-plastic",
+        "value" : {
+          "gravityMultiplier" : 0.8,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.5,
+          "liquidFriction" : 0.0,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-plastic1",
+        "value" : {
+          "gravityMultiplier" : 0.6,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.5,
+          "liquidFriction" : 0.0,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-plastic2",
+        "value" : {
+          "gravityMultiplier" : 0.4,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.5,
+          "liquidFriction" : 0.0,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-copper",
+        "value" : {
+          "gravityMultiplier" : 0.4,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-copper1",
+        "value" : {
+          "gravityMultiplier" : 0.3,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-copper2",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-copper3",
+        "value" : {
+          "gravityMultiplier" : 0.1,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-bronze",
+        "value" : {
+          "gravityMultiplier" : 0.4,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-bronze1",
+        "value" : {
+          "gravityMultiplier" : 0.3,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-bronze2",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-bronze3",
+        "value" : {
+          "gravityMultiplier" : 0.1,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-iron",
+        "value" : {
+          "gravityMultiplier" : 0.4,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-iron1",
+        "value" : {
+          "gravityMultiplier" : 0.3,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-iron2",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-iron3",
+        "value" : {
+          "gravityMultiplier" : 0.1,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-steel",
+        "value" : {
+          "gravityMultiplier" : 0.4,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-steel1",
+        "value" : {
+          "gravityMultiplier" : 0.3,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-steel2",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-steel3",
+        "value" : {
+          "gravityMultiplier" : 0.1,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-classic",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/bolt-moderne",
+        "value" : {
+          "gravityMultiplier" : 0.2,
+          "bounceFactor" : 0.0,
+          "maxMovementPerStep" : 500.0,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 0.0,
+          "airFriction" : 0.0,
+          "liquidFriction" : 0.1,
+          "speedLimit" : null
+        }
+      },
+	  {
+        "op" : "add",
+        "path" : "/boltstick",
+        "value" : {
+		  "mass" : 1.0,
+          "gravityMultiplier" : 1.0,
+          "bounceFactor" : 0.0,
+		  "stickyCollision" : true,
+		  "stickyForce" : 20.0,
+          "maxMovementPerStep" : 0.4,
+          "groundSlideMovementEnabled" : false,
+          "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+          "ignorePlatformCollision" : true,
+          "groundFriction" : 1.0,
+          "airFriction" : 1.0,
+          "liquidFriction" : 1.0,
+          "speedLimit" : null
+        }
+      }
+    ]

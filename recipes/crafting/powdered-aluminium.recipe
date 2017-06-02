@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "aluminium-tube", "count" : 1 }
+  ],
+  "output" : { "item" : "powdered-aluminium", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

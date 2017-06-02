@@ -1,0 +1,7 @@
+{
+  "itemName" : "copper-wire",
+  "rarity" : "Common",
+  "inventoryIcon" : "copper-wire.png",
+  "description" : "Useful for conducting the flow of voltaic energies. Keep an eye on this wire though, Kobolds are known to steal it.",
+  "shortdescription" : "Copper Wire"
+}

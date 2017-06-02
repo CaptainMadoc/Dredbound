@@ -1,0 +1,9 @@
+{
+  "input" : [
+	{ "item" : "db-cbow-wood-wooden", "count" : 1 },
+	{ "item" : "plasticboltquiver", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "db-cbow-wood-plastic", "count" : 1 },
+  "groups" : [ "mod", "plain", "weapons", "all" ]
+}

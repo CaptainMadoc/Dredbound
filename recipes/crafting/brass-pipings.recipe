@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ingot-brass", "count" : 2 }
+  ],
+  "output" : { "item" : "brass-pipings", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

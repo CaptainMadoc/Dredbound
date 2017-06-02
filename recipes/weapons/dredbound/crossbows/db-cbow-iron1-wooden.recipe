@@ -1,0 +1,12 @@
+{
+  "input" : [
+	{ "item" : "fullwood1", "count" : 10 },
+	{ "item" : "plantfibre", "count" : 10 },
+	{ "item" : "ironbar", "count" : 2 },
+	{ "item" : "brass-mechanisms", "count" : 1 },
+	{ "item" : "woodenboltquiver", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "db-cbow-iron1-wooden", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "weapons", "all" ]
+}

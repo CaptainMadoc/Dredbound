@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "brass-mechanisms", "count" : 1 },
+	{ "item" : "steelbar", "count" : 1 }
+  ],
+  "output" : { "item" : "spring-loaded-power-core", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

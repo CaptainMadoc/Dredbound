@@ -1,0 +1,12 @@
+{
+	"name" : "Dredbound",
+	"version" : "Beta V. Upbeat Giraffe",
+	"path" : ".",
+	"dependencies" : [],
+	"metadata" : {
+		"displayName" : "Dredbound",
+		"author" : "Joshua Madoc",
+		"description" : "Aha! A secret Arcane Address!",
+		"version" : "Alpha 26"
+	}
+}

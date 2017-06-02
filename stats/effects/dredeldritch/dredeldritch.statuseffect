@@ -1,0 +1,16 @@
+{
+  "name" : "dredeldritch",
+  "blockingStat" : "poisonImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "dredeldritch.lua"
+  ],
+
+  "animationConfig" : "dredeldritch.animation",
+
+  "label" : "Poisoned",
+  "icon" : "/interface/statuses/poison.png"
+}

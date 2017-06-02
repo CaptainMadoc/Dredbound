@@ -1,0 +1,19 @@
+{
+  "projectileName" : "bolt-steel3",
+  "physics" : "bolt-steel3",
+  "frames" : "bolt-steel3.png",
+  "animationCycle" : 0.25,
+  "level" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 300,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "dredbow"
+}

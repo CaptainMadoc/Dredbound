@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "mud-wen", "count" : 1 },
+    { "item" : "aqua-vitae", "count" : 1 }
+  ],
+  "output" : { "item" : "verdant-poison", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "consumables", "all" ]
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "db-cbow-metal5-wooden", "count" : 1 },
+	{ "item" : "brass-pipings", "count" : 1 },
+	{ "item" : "steelbar", "count" : 1 },
+	{ "item" : "brimstone", "count" : 1 }
+	
+  ],
+  "output" : { "item" : "db-cbow-hot-wooden", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "weapons", "all" ]
+}

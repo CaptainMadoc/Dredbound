@@ -1,0 +1,7 @@
+{
+  "itemName" : "ingot-zinc",
+  "rarity" : "Common",
+  "inventoryIcon" : "ingot-zinc.png",
+  "description" : "Zinc - one of the three Forbidden Metals.",
+  "shortdescription" : "Zinc Ingot"
+}

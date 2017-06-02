@@ -1,0 +1,7 @@
+{
+  "itemName" : "potion-of-mana",
+  "rarity" : "Common",
+  "inventoryIcon" : "potion-of-mana.png",
+  "description" : "This is a small potion of deepest blue; it whorls slowly, magically, at you.",
+  "shortdescription" : "Potion of Mana"
+}

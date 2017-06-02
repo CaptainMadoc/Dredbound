@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "acidum-salis", "count" : 1 },
+    { "item" : "aqua-fortis", "count" : 1 }
+  ],
+  "output" : { "item" : "aqua-regia", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

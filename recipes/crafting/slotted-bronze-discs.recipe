@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "ingot-bronze", "count" : 3 }
+  ],
+  "output" : { "item" : "slotted-bronze-discs", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "db-cbow-small-steel",
+  "inventoryIcon" : "crossbow-small-toy.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 9999,
+  "rarity" : "uncommon",
+  "description" : "It's like an adorable kid's toy, but you might as well throw the bolts.",
+  "tooltipKind" : "gun",
+  "shortdescription" : "Small Crossbow (S)",
+  "ammoUsage" : 1,
+  "image" : "Crossbow-Small-toy.png",
+  "handPosition" : [-2.5, -1],
+  "firePosition" : [-1, 1.5],
+  "spread" : 1,
+  "classMultiplier" : 0.05,
+  "rateOfFire" : [10, 10],
+  "level" : 1,
+  "fireTime" : 0.95,
+  "twoHanded" : false,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "bolt-steel",
+  "projectile" : {
+    "speed" : 30,
+    "life" : 3,
+    "power" : 1.0,
+    "color" : [255, 10, 10]
+  },
+  "scripts" : ["/items/guns/consume_ammo.lua"],
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/dredbound/crossbow-small-shoot.ogg" } ]
+  }
+}

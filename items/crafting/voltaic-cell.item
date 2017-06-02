@@ -1,0 +1,7 @@
+{
+  "itemName" : "voltaic-cell",
+  "rarity" : "Common",
+  "inventoryIcon" : "voltaic-cell.png",
+  "description" : "A shocking device first created by the Wizard Tesla, it can be used to store and discharge voltaic energies.",
+  "shortdescription" : "Voltaic Cell"
+}

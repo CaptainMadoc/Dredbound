@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "ingot-electrum", "count" : 1 },
+	{ "item" : "ingot-platinum", "count" : 1 },
+	{ "item" : "aqua-regia", "count" : 1 },
+	{ "item" : "diamond", "count" : 1 }
+  ],
+  "output" : { "item" : "aetheric-power-cylinder", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

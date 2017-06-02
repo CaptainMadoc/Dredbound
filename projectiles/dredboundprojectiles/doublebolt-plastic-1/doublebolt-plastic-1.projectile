@@ -1,0 +1,19 @@
+{
+  "projectileName" : "doublebolt-plastic-1",
+  "physics" : "bolt-plastic",
+  "piercing" : false,
+  "frames" : "doublebolt-plastic-1.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 95,
+  "damageKind" : "dredbow"
+}

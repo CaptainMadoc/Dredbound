@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "oil-of-vitriol", "count" : 1 },
+    { "item" : "salt", "count" : 1 }
+  ],
+  "output" : { "item" : "acidum-salis", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

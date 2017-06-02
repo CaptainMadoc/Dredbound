@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : { "item" : "copper-wire", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

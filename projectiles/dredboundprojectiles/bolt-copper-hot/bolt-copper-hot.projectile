@@ -1,0 +1,24 @@
+{
+  "projectileName" : "bolt-copper-hot",
+  "physics" : "bolt-copper",
+  "piercing" : false,
+  "frames" : "bolt-copper-hot.png",
+  "animationCycle" : 0.25,
+  "level" : 1,
+  "frameNumber" : 1,
+  "emitters" : [ "daggerblue" ],
+  "damageKindImage" : "icon.png",
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [
+    "dredhot"
+  ],
+  "power" : 5.0,
+  "lightColor" : [235, 126, 2],
+  "damageKind" : "dredbow-hot"
+}

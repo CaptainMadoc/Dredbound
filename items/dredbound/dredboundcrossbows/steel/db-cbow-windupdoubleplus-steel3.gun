@@ -1,0 +1,33 @@
+{
+  "itemName" : "db-cbow-windupdoubleplus-steel3",
+  "inventoryIcon" : "Crossbow-Windup-Doubleplus.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 9999,
+  "rarity" : "uncommon",
+  "description" : "Double the bow, double the shot, double the family fun! Liquid Smooth(tm) crank included.",
+  "tooltipKind" : "gun",
+  "shortdescription" : "Windup Double+ C'bow (S+++)",
+  "ammoUsage" : 2,
+  "image" : "Crossbow-Windup-Doubleplus.png",
+  "handPosition" : [-2.5, -1],
+  "firePosition" : [-1, 1.5],
+  "spread" : 1,
+  "classMultiplier" : 0.05,
+  "rateOfFire" : [10, 10],
+  "level" : 1,
+  "fireTime" : 1.25,
+  "twoHanded" : true,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "bolt-windup-doublebolt-steel3",
+  "projectile" : {
+    "speed" : 1,
+    "life" : 3,
+    "power" : 3,
+    "color" : [255, 10, 10]
+  },
+  "scripts" : ["/items/guns/consume_ammo.lua"],
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/dredbound/crossbow-windup-doubleplus-shoot.ogg" } ]
+  }
+}

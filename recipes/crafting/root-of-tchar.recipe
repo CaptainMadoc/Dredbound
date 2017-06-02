@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 750 }
+  ],
+  "output" : { "item" : "root-of-tchar", "count" : 1 },
+  "groups" : [ "mod", "dredcrafting", "tools", "all" ]
+}

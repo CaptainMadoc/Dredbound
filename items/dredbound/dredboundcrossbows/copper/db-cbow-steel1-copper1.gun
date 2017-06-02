@@ -1,0 +1,33 @@
+{
+  "itemName" : "db-cbow-steel1-copper1",
+  "inventoryIcon" : "crossbow-steel-crude.png",
+  "dropCollision" : [-8.0, -3.0, 8.0, 3.0],
+  "maxStack" : 9999,
+  "rarity" : "uncommon",
+  "description" : "Though tough, this unsophisticated steel crossbow only just barely manages to hit targets.",
+  "tooltipKind" : "gun",
+  "shortdescription" : "Crude Steel C'bow (C+)",
+  "ammoUsage" : 1,
+  "image" : "crossbow-steel-crude.png",
+  "handPosition" : [-2.5, -1],
+  "firePosition" : [-1, 1.5],
+  "spread" : 1,
+  "classMultiplier" : 0.05,
+  "rateOfFire" : [10, 10],
+  "level" : 1,
+  "fireTime" : 0.90,
+  "twoHanded" : false,
+  "walkWhileFiring" : false,
+
+  "projectileType" : "bolt-copper1",
+  "projectile" : {
+    "speed" : 85,
+    "life" : 3,
+    "power" : 1.5,
+    "color" : [255, 10, 10]
+  },
+  "scripts" : ["/items/guns/consume_ammo.lua"],
+  "muzzleEffect" : {
+    "fireSound" : [ { "file" : "/sfx/dredbound/crossbow-small-shoot.ogg" } ]
+  }
+}

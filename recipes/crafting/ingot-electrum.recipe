@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 },
+	{ "item" : "goldbar", "count" : 1 }
+  ],
+  "output" : { "item" : "ingot-electrum", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
+}

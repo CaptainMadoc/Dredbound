@@ -1,0 +1,10 @@
+{
+  "input" : [
+	{ "item" : "db-cbow-iron4-wooden", "count" : 2 },
+	{ "item" : "ironbar", "count" : 4 },
+	{ "item" : "brass-mechanisms", "count" : 4 }
+	
+  ],
+  "output" : { "item" : "db-cbow-windupdoubleplus-wooden", "count" : 1 },
+  "groups" : [ "mod", "tinkererparts", "weapons", "all" ]
+}
