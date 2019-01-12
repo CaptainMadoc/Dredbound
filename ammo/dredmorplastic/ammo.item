@@ -1,0 +1,12 @@
+{
+	"itemName" : "dredmorplasticammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 50000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "dredmorplasticammo.png",
+	"description" : "test",
+	"shortdescription" : "Plastic Bolt",
+	"projectile" : "dredmorplasticproj",
+	"projectileConfig" : {"speed" : 1, "power" : 1}
+}

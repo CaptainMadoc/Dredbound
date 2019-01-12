@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 150 }
-  ],
-  "output" : { "item" : "ingot-tin", "count" : 1 },
-  "groups" : [ "mod", "dredcrafting", "tools", "all" ]
-}

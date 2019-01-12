@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "copperbar", "count" : 1 },
-	{ "item" : "ingot-zinc", "count" : 1 }
-  ],
-  "output" : { "item" : "ingot-brass", "count" : 1 },
-  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
-}

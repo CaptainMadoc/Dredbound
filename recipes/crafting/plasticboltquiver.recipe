@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "ingot-plastic", "count" : 1 }
-  ],
-  "output" : { "item" : "plasticboltquiver", "count" : 1 },
-  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
-}

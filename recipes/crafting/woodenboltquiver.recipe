@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 100 }
-  ],
-  "output" : { "item" : "woodenboltquiver", "count" : 1 },
-  "groups" : [ "mod", "tinkererparts", "tools", "all" ]
-}

@@ -1,0 +1,29 @@
+[	
+	"/dredbound/modules/data.lua",
+	"/dredbound/modules/timers.lua",
+	"/dredbound/modules/customSounds.lua",
+	"/dredbound/modules/requireUni.lua",
+
+	"/dredbound/modules/camera.lua",
+	"/dredbound/modules/aim.lua",
+
+	"/dredbound/modules/portraitprocessor.lua",
+	"/dredbound/modules/arms.lua",
+
+	"/dredbound/modules/animation.lua",
+	"/dredbound/modules/transforms.lua",
+
+	"/dredbound/modules/ammo.lua",
+	"/dredbound/modules/rotatingMagazine.lua",
+	"/dredbound/modules/gun.lua",
+
+	"/dredbound/modules/attachmentSystem.lua",
+	"/dredbound/modules/flashlight.lua",
+	"/dredbound/modules/laser.lua",
+	
+	"/dredbound/modules/ui.lua",
+	"/dredbound/modules/gun_ui.lua",
+	"/dredbound/modules/crosshair_ui.lua",
+
+	"/dredbound/modules/_GBDEBUG.lua"
+]

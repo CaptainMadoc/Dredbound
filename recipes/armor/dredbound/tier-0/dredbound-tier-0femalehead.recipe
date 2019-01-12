@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 1 }
-  ],
-  "output" : { "item" : "dredbound-tier-0femalehead", "count" : 1 },
-  "groups" : [ "spinningwheel", "armor", "all" ]
-}

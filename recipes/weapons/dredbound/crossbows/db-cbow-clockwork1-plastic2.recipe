@@ -1,9 +1,0 @@
-{
-  "input" : [
-	{ "item" : "db-cbow-clockwork1-plastic1", "count" : 1 },
-	{ "item" : "plasticboltquiver2", "count" : 1 }
-	
-  ],
-  "output" : { "item" : "db-cbow-clockwork1-plastic2", "count" : 1 },
-  "groups" : [ "mod", "plain", "weapons", "all" ]
-}

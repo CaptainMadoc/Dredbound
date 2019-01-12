@@ -1,0 +1,13 @@
+{
+	"itemName" : "dredmorttachmentsremover",
+	"rarity" : "common",
+	"shortdescription" : "Attachments Remover",
+	"category" : "Attachments | Remover",
+	"price" : 0,
+	"maxStack" : 1,
+
+	"inventoryIcon" : "icon.png",
+	"description" : "",
+	"scripts" : ["/dredbound/scripts/removeAttachments.lua"]
+}
+ 

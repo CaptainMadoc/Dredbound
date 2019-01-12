@@ -18,48 +18,48 @@
       },
 	  {
         "op" : "add",
-        "path" : "/bolt-plastic",
+        "path" : "/dredmorplasticphys",
         "value" : {
-          "gravityMultiplier" : 0.8,
+          "gravityMultiplier" : 0.3,
           "bounceFactor" : 0.0,
           "maxMovementPerStep" : 500.0,
           "groundSlideMovementEnabled" : false,
           "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
           "ignorePlatformCollision" : true,
           "groundFriction" : 0.0,
-          "airFriction" : 0.5,
+          "airFriction" : 3.0,
           "liquidFriction" : 0.0,
           "speedLimit" : null
         }
       },
 	  {
         "op" : "add",
-        "path" : "/bolt-plastic1",
+        "path" : "/dredmorplasticphys1",
         "value" : {
-          "gravityMultiplier" : 0.6,
+          "gravityMultiplier" : 0.2,
           "bounceFactor" : 0.0,
           "maxMovementPerStep" : 500.0,
           "groundSlideMovementEnabled" : false,
           "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
           "ignorePlatformCollision" : true,
           "groundFriction" : 0.0,
-          "airFriction" : 0.5,
+          "airFriction" : 2.0,
           "liquidFriction" : 0.0,
           "speedLimit" : null
         }
       },
 	  {
         "op" : "add",
-        "path" : "/bolt-plastic2",
+        "path" : "/dredmorplasticphys2",
         "value" : {
-          "gravityMultiplier" : 0.4,
+          "gravityMultiplier" : 0.1,
           "bounceFactor" : 0.0,
           "maxMovementPerStep" : 500.0,
           "groundSlideMovementEnabled" : false,
           "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
           "ignorePlatformCollision" : true,
           "groundFriction" : 0.0,
-          "airFriction" : 0.5,
+          "airFriction" : 1.0,
           "liquidFriction" : 0.0,
           "speedLimit" : null
         }
