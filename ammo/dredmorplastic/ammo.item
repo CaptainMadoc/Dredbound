@@ -8,5 +8,5 @@
 	"description" : "test",
 	"shortdescription" : "Plastic Bolt",
 	"projectile" : "dredmorplasticproj",
-	"projectileConfig" : {"speed" : 1, "power" : 1}
+	"projectileConfig" : {"speed" : 2, "power" : 1}
 }

@@ -80,7 +80,7 @@
 	
 	"gunStats" : {
 		"damageMultiplier" : 5,
-		"bulletSpeedMultiplier" : 50,
+		"bulletSpeedMultiplier" : 45,
 		"maxMagazine" : 1,
 		"aimLookRatio" : 0.125,
 		"burst" : 3,
@@ -90,7 +90,7 @@
 		"standingInaccuracy" : 0,
 		"crouchInaccuracyMultiplier" : 0.25,
 		"muzzleFlash" : 1,
-		"rpm" : 80
+		"rpm" : 60
 	},
 
 	"gunSettings" : {
@@ -422,7 +422,7 @@
 				"interpolated" : false,
 				"transform" : {
 					"rotationPoint" : [0.75, 0.375],
-					"position" : [-0.6875,-0.1875]
+					"position" : [-0.4375,-0.4375]
 				}
 			},
 			"gun2" : {
