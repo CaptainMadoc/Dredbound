@@ -36,7 +36,7 @@
         "op" : "add",
         "path" : "/dredmorplasticphys1",
         "value" : {
-          "gravityMultiplier" : 0.2,
+          "gravityMultiplier" : 0.25,
           "bounceFactor" : 0.0,
           "maxMovementPerStep" : 500.0,
           "groundSlideMovementEnabled" : false,
@@ -52,7 +52,7 @@
         "op" : "add",
         "path" : "/dredmorplasticphys2",
         "value" : {
-          "gravityMultiplier" : 0.1,
+          "gravityMultiplier" : 0.2,
           "bounceFactor" : 0.0,
           "maxMovementPerStep" : 500.0,
           "groundSlideMovementEnabled" : false,
