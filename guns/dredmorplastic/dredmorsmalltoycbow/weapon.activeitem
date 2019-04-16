@@ -94,7 +94,7 @@
 	},
 
 	"gunSettings" : {
-		"fireSounds" : ["/guns/dredmorplastic/dredmorsmalltoycbow/dredmorsmalltoycrossbow.ogg"],
+		"fireSounds" : ["/sfx/dredbow1.ogg"],
 		"fireTypes" : ["auto"],
 
 		"showCasings" : true,

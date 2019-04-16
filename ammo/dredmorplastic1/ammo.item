@@ -1,11 +1,11 @@
 {
-	"itemName" : "dredmorplasticammo",
+	"itemName" : "dredmorplastic1ammo",
 	"price" : 5,
 	"rarity" : "common",
 	"maxStack" : 50000,
 	"category" : "craftingMaterial",
 	"inventoryIcon" : "dredmorplasticammo.png",
-	"description" : "test",
+	"description" : "When the Dwarves ran out of iron, they made bone bolts. When they ran out of bone, they made wood bolts. When they ran out of wood, they made these.",
 	"shortdescription" : "Plastic Bolt",
 	"projectile" : "dredmorplasticproj",
 	"projectileConfig" : {"speed" : 2, "power" : 1}

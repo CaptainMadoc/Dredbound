@@ -1,0 +1,12 @@
+{
+	"itemName" : "dredmorplastic3ammo",
+	"price" : 5,
+	"rarity" : "common",
+	"maxStack" : 50000,
+	"category" : "craftingMaterial",
+	"inventoryIcon" : "dredmorplasticammo.png",
+	"description" : "'Who would make such things?' the conscript pleaded, his life draining from horrible wounds. 'The Dwarves' replied the watch-captain, 'Those bastards.'",
+	"shortdescription" : "Ingeniously Scythed Plastic Bolt",
+	"projectile" : "dredmorplasticproj3",
+	"projectileConfig" : {"speed" : 2.5, "power" : 2}
+}
